@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW4_4", "HW4_4\HW4_4.csproj", "{2732E27C-D803-4D60-8912-B17094FC16E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_4_4_Interface", "HW_4_4_Interface\HW_4_4_Interface.csproj", "{1A200201-FBB9-47A0-9F15-64CED9275380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2732E27C-D803-4D60-8912-B17094FC16E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2732E27C-D803-4D60-8912-B17094FC16E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2732E27C-D803-4D60-8912-B17094FC16E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2732E27C-D803-4D60-8912-B17094FC16E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A200201-FBB9-47A0-9F15-64CED9275380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A200201-FBB9-47A0-9F15-64CED9275380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A200201-FBB9-47A0-9F15-64CED9275380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A200201-FBB9-47A0-9F15-64CED9275380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

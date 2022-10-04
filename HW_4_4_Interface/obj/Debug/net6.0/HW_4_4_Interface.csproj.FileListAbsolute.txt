@@ -1,0 +1,15 @@
+C:\Users\USER\RiderProjects\HW4_4\HW_4_4_Interface\bin\Debug\net6.0\HW_4_4_Interface.exe
+C:\Users\USER\RiderProjects\HW4_4\HW_4_4_Interface\bin\Debug\net6.0\HW_4_4_Interface.deps.json
+C:\Users\USER\RiderProjects\HW4_4\HW_4_4_Interface\bin\Debug\net6.0\HW_4_4_Interface.runtimeconfig.json
+C:\Users\USER\RiderProjects\HW4_4\HW_4_4_Interface\bin\Debug\net6.0\HW_4_4_Interface.dll
+C:\Users\USER\RiderProjects\HW4_4\HW_4_4_Interface\bin\Debug\net6.0\HW_4_4_Interface.pdb
+C:\Users\USER\RiderProjects\HW4_4\HW_4_4_Interface\obj\Debug\net6.0\HW_4_4_Interface.csproj.AssemblyReference.cache
+C:\Users\USER\RiderProjects\HW4_4\HW_4_4_Interface\obj\Debug\net6.0\HW_4_4_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RiderProjects\HW4_4\HW_4_4_Interface\obj\Debug\net6.0\HW_4_4_Interface.AssemblyInfoInputs.cache
+C:\Users\USER\RiderProjects\HW4_4\HW_4_4_Interface\obj\Debug\net6.0\HW_4_4_Interface.AssemblyInfo.cs
+C:\Users\USER\RiderProjects\HW4_4\HW_4_4_Interface\obj\Debug\net6.0\HW_4_4_Interface.csproj.CoreCompileInputs.cache
+C:\Users\USER\RiderProjects\HW4_4\HW_4_4_Interface\obj\Debug\net6.0\HW_4_4_Interface.dll
+C:\Users\USER\RiderProjects\HW4_4\HW_4_4_Interface\obj\Debug\net6.0\refint\HW_4_4_Interface.dll
+C:\Users\USER\RiderProjects\HW4_4\HW_4_4_Interface\obj\Debug\net6.0\HW_4_4_Interface.pdb
+C:\Users\USER\RiderProjects\HW4_4\HW_4_4_Interface\obj\Debug\net6.0\HW_4_4_Interface.genruntimeconfig.cache
+C:\Users\USER\RiderProjects\HW4_4\HW_4_4_Interface\obj\Debug\net6.0\ref\HW_4_4_Interface.dll
